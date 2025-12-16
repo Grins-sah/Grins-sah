@@ -9,7 +9,7 @@ Competitive Programmer • Full-Stack Developer • ML/AI Engineer
 
 I’m a computer engineering undergraduate passionate about **problem solving, scalable systems, and AI**. I actively work across **Data Structures & Algorithms, Full-Stack Web Development, and Machine Learning**, and I enjoy building systems end-to-end — from raw algorithms to deployed applications.
 
-* 🔢 **544+ DSA problems solved** on LeetCode
+* 🔢 **585+ DSA problems solved** on LeetCode
 * 🧠 Strong foundation in **C++ DSA, OOPs, and System Design basics**
 * 🌐 Experience building **production-grade web & ML systems**
 * ⚡ Actively exploring **Transformers, Distributed Systems, and DevOps**
